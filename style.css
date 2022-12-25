@@ -1,0 +1,15 @@
+body {
+    background: black; 
+}
+
+#androidlogo {
+    margin-left: 50px;
+    margin-top: 160px;
+}
+
+#text {
+    display: block;
+    color: white;
+    font-family: Arial;
+    margin-left: 60px;
+}
